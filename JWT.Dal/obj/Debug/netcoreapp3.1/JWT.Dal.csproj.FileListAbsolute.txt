@@ -1,0 +1,12 @@
+C:\Users\Steve\source\Exemple\NetAngular\DemoJWT\JWT.Dal\bin\Debug\netcoreapp3.1\JWT.Dal.deps.json
+C:\Users\Steve\source\Exemple\NetAngular\DemoJWT\JWT.Dal\bin\Debug\netcoreapp3.1\JWT.Dal.dll
+C:\Users\Steve\source\Exemple\NetAngular\DemoJWT\JWT.Dal\bin\Debug\netcoreapp3.1\JWT.Dal.pdb
+C:\Users\Steve\source\Exemple\NetAngular\DemoJWT\JWT.Dal\bin\Debug\netcoreapp3.1\Tools.dll
+C:\Users\Steve\source\Exemple\NetAngular\DemoJWT\JWT.Dal\bin\Debug\netcoreapp3.1\Tools.pdb
+C:\Users\Steve\source\Exemple\NetAngular\DemoJWT\JWT.Dal\obj\Debug\netcoreapp3.1\JWT.Dal.csprojAssemblyReference.cache
+C:\Users\Steve\source\Exemple\NetAngular\DemoJWT\JWT.Dal\obj\Debug\netcoreapp3.1\JWT.Dal.AssemblyInfoInputs.cache
+C:\Users\Steve\source\Exemple\NetAngular\DemoJWT\JWT.Dal\obj\Debug\netcoreapp3.1\JWT.Dal.AssemblyInfo.cs
+C:\Users\Steve\source\Exemple\NetAngular\DemoJWT\JWT.Dal\obj\Debug\netcoreapp3.1\JWT.Dal.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\Exemple\NetAngular\DemoJWT\JWT.Dal\obj\Debug\netcoreapp3.1\JWT.Dal.csproj.CopyComplete
+C:\Users\Steve\source\Exemple\NetAngular\DemoJWT\JWT.Dal\obj\Debug\netcoreapp3.1\JWT.Dal.dll
+C:\Users\Steve\source\Exemple\NetAngular\DemoJWT\JWT.Dal\obj\Debug\netcoreapp3.1\JWT.Dal.pdb

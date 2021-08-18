@@ -1,0 +1,21 @@
+﻿** Met en surbrillance
+     Tables à reconstruire
+       Aucun
+     Index ordonnés en clusters à supprimer
+       Aucun
+     Index ordonnés en clusters à créer.
+       Aucun
+     Problèmes de données possibles
+       Aucun
+
+** Actions de l'utilisateur
+     Créer
+       [dbo].[UserApp] (Table)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[UserApp] (Contrainte par défaut)
+       Contrainte par défaut: contrainte sans nom sur [dbo].[UserApp] (Contrainte par défaut)
+       [dbo].[V_UserApp] (Vue)
+       [dbo].[GetSecretKey] (Fonction)
+       [dbo].[LoginUser] (Procédure)
+       [dbo].[RegisterUser] (Procédure)
+
+** Actions de support

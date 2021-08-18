@@ -1,0 +1,9 @@
+C:\Users\Steve\source\Perso\ApiContactCore\Tools\bin\Release\netstandard2.0\Tools.deps.json
+C:\Users\Steve\source\Perso\ApiContactCore\Tools\bin\Release\netstandard2.0\Tools.dll
+C:\Users\Steve\source\Perso\ApiContactCore\Tools\bin\Release\netstandard2.0\Tools.pdb
+C:\Users\Steve\source\Perso\ApiContactCore\Tools\obj\Release\netstandard2.0\Tools.csprojAssemblyReference.cache
+C:\Users\Steve\source\Perso\ApiContactCore\Tools\obj\Release\netstandard2.0\Tools.AssemblyInfoInputs.cache
+C:\Users\Steve\source\Perso\ApiContactCore\Tools\obj\Release\netstandard2.0\Tools.AssemblyInfo.cs
+C:\Users\Steve\source\Perso\ApiContactCore\Tools\obj\Release\netstandard2.0\Tools.csproj.CoreCompileInputs.cache
+C:\Users\Steve\source\Perso\ApiContactCore\Tools\obj\Release\netstandard2.0\Tools.dll
+C:\Users\Steve\source\Perso\ApiContactCore\Tools\obj\Release\netstandard2.0\Tools.pdb
